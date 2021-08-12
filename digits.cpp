@@ -1,3 +1,5 @@
+// program to print the digits of entered number.
+
 #include <iostream>
 using namespace std;
 
